@@ -1,0 +1,31 @@
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Release\Helper Square.exe.config
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Release\Helper Square.exe
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Release\Helper Square.pdb
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Release\Microsoft.Win32.Registry.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Release\NAudio.Asio.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Release\NAudio.Core.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Release\NAudio.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Release\NAudio.Midi.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Release\NAudio.Wasapi.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Release\NAudio.WinForms.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Release\NAudio.WinMM.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Release\System.Security.AccessControl.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Release\Microsoft.Win32.Registry.xml
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Release\NAudio.xml
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Release\System.Security.AccessControl.xml
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Release\Interop.WMPLib.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Release\AxInterop.WMPLib.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Release\Helper Square.csproj.AssemblyReference.cache
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Release\Interop.WMPLib.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Release\AxInterop.WMPLib.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Release\Helper Square.csproj.ResolveComReference.cache
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Release\Helper_Square.Main.resources
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Release\Helper_Square.Properties.Resources.resources
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Release\Helper_Square.Resource1.resources
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Release\Helper Square.csproj.GenerateResource.cache
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Release\Helper Square.csproj.CoreCompileInputs.cache
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Release\Helper Square.csproj.CopyComplete
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Release\Helper Square.exe
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Release\Helper Square.pdb

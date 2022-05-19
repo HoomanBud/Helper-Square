@@ -1,0 +1,31 @@
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Debug\Helper Square.exe.config
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Debug\Helper Square.exe
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Debug\Helper Square.pdb
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Debug\Helper Square.csproj.AssemblyReference.cache
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Debug\Helper_Square.Main.resources
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Debug\Helper_Square.Properties.Resources.resources
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Debug\Helper Square.csproj.GenerateResource.cache
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Debug\Helper Square.csproj.CoreCompileInputs.cache
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Debug\Helper Square.exe
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Debug\Helper Square.pdb
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Debug\Interop.WMPLib.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Debug\Interop.WMPLib.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Debug\Helper Square.csproj.ResolveComReference.cache
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Debug\Helper_Square.Resource1.resources
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Debug\NAudio.Asio.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Debug\NAudio.Core.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Debug\NAudio.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Debug\NAudio.Midi.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Debug\NAudio.Wasapi.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Debug\NAudio.WinForms.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Debug\NAudio.WinMM.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Debug\System.Security.AccessControl.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Debug\NAudio.xml
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Debug\System.Security.AccessControl.xml
+C:\Users\QK\Desktop\Helper Square\Helper Square\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\QK\Desktop\Helper Square\Helper Square\obj\Debug\Helper Square.csproj.CopyComplete
