@@ -1,5 +1,5 @@
 # Helper Square
-An assistance for Windows 10 similar to clippy
+An assistant for Windows 10 similar to clippy
 
 IMPORTANT:
 I don't know what's wrong with my projects but they keep getting flagged as virus. View the results here.
